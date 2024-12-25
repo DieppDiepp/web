@@ -1,0 +1,137 @@
+.lyric-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 8px;
+  	border-radius: 30px;
+  	width: 287px;
+  	height: 186px;
+}
+.ngy-hm-nay {
+  	margin: 0;
+}
+.p {
+  	margin: 0;
+  	font-size: 24px;
+  	color: #fff;
+}
+.ngy-hm-nay-container {
+  	position: absolute;
+  	top: 19px;
+  	left: 0px;
+  	display: inline-block;
+  	width: 301px;
+  	height: 153px;
+}
+.lyric {
+  	position: absolute;
+  	top: 48px;
+  	left: 11px;
+  	width: 301px;
+  	height: 186px;
+}
+.thanh-trang-thi {
+  	position: absolute;
+  	top: 420.5px;
+  	left: 50px;
+  	width: 224px;
+  	height: 1px;
+}
+.phm-tng-tc {
+  	position: absolute;
+  	height: 5.96%;
+  	width: 69.19%;
+  	top: 78.45%;
+  	right: 15.28%;
+  	bottom: 15.59%;
+  	left: 15.53%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon {
+  	position: absolute;
+  	height: 25%;
+  	width: 7.61%;
+  	top: 50%;
+  	right: 0%;
+  	bottom: 25%;
+  	left: 92.39%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	cursor: pointer;
+}
+.icon-chevron-left {
+  	position: absolute;
+  	width: 5.22%;
+  	top: 0px;
+  	right: 94.78%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 22px;
+  	cursor: pointer;
+}
+.trn-u {
+  	position: absolute;
+  	height: 3.7%;
+  	width: 89.75%;
+  	top: 2.02%;
+  	right: 4.04%;
+  	bottom: 94.28%;
+  	left: 6.21%;
+}
+.nh-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 129px;
+  	width: 132px;
+  	height: 123px;
+}
+.image-2-icon {
+  	position: absolute;
+  	top: 10px;
+  	left: 139px;
+  	border-radius: 20px;
+  	width: 112px;
+  	height: 103px;
+  	object-fit: cover;
+}
+.image-3-icon {
+  	position: absolute;
+  	top: 8px;
+  	left: 0px;
+  	border-radius: 21px;
+  	width: 112px;
+  	height: 106px;
+  	object-fit: cover;
+}
+.nh {
+  	position: absolute;
+  	top: 236px;
+  	left: 34px;
+  	width: 261px;
+  	height: 123px;
+}
+.thin-l-i {
+  	position: absolute;
+  	top: 359px;
+  	left: 34px;
+  	font-size: 40px;
+  	display: inline-block;
+  	width: 253px;
+  	height: 54px;
+}
+.khung-2 {
+  	width: 100%;
+  	position: relative;
+  	border-radius: 20px;
+  	background-color: #fff;
+  	height: 594px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 16px;
+  	color: #cb6767;
+  	font-family: Itim;
+}
+
